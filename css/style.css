@@ -1,1 +1,9 @@
-@import url(12boll.css)
+/* ----------------
+    SITE STYLE
+---------------- */
+.box {
+    background-color: #006cfa;
+    padding: .9375rem 0;
+    text-align: center;
+    border: 1px solid white;
+}
