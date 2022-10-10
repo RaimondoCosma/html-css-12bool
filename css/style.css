@@ -1,6 +1,9 @@
 /* ----------------
     SITE STYLE
 ---------------- */
+section {
+    margin-bottom: 1.5625rem;
+}
 .box {
     font-size: .875rem;
     background-color: #006cfa;
