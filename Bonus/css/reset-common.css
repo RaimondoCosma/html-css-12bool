@@ -13,3 +13,10 @@
     max-width: 75rem;
     margin: auto;
 }
+body {
+    color: white;
+    font-family: 'Silkscreen', cursive;
+}
+h1 {
+    font-size: .9375rem;
+}

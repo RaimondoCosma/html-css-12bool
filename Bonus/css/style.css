@@ -14,6 +14,7 @@
 .box__black {
     height: .9375rem;
     background-color: black;
+    text-align: center;
 }
 .box__white {
     height: .9375rem;
@@ -22,4 +23,14 @@
 .box__brown {
     height: .9375rem;
     background-color: brown;
+}
+.mini-container {
+    position: relative;
+}
+.mini-container h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2.25rem;
 }
