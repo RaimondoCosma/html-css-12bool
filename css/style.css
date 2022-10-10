@@ -2,9 +2,15 @@
     SITE STYLE
 ---------------- */
 .box {
+    font-size: .875rem;
     background-color: #006cfa;
-    padding: .9375rem 0;
+    padding: .9375rem;
     text-align: center;
     color: white;
     border: 1px solid white;
+}
+.box__green {
+    background-color: #00e165;
+    border: 1px solid #006cfa;
+    padding: .9375rem;
 }
