@@ -1,0 +1,25 @@
+@import url(col-46.css);
+@import url(reset-common.css);
+
+/* --------------
+    UTILITY
+-------------- */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+/* --------------
+    STYLE PAGE
+-------------- */
+.box__black {
+    height: .9375rem;
+    background-color: black;
+}
+.box__white {
+    height: .9375rem;
+    background-color: white;
+}
+.box__brown {
+    height: .9375rem;
+    background-color: brown;
+}
